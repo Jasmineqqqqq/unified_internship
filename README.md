@@ -1,2 +1,2 @@
 # unified_internship
-I have worked pon ywo datsets - heart disease and FDI trend analysis
+I have worked on two datasets - heart disease and FDI trend analysis
